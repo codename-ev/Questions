@@ -1,0 +1,42 @@
+body{
+    margin: 30px;
+}
+span{
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h1 a{
+    font-size: 50px;
+    color: crimson;
+    padding-left: 20px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    border-bottom: grey solid 4px;
+}
+li{
+    color: grey;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 20px;
+    font-weight: 700;
+    border-right: grey solid 4px;
+}
+.space{
+    margin-right: 50px;
+}
+nav{
+    width: 150px;
+    float: left;
+}
+iframe{
+    margin: 20px;
+}
+article{
+    margin-top: 40px;
+}
